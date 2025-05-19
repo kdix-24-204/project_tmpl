@@ -6,7 +6,7 @@
 
 ## 2. 調査の概要
 - 調査したアプリケーション: LINE, X
-- 使用した方法 (インタビュー、記事、Web など): LINEで母にアイデアシートを説明し、意見をもらう。Xで主婦たちが悩んでいる課題について調べた。https://kumabelog.com/m5stack-aicamera-series/、　https://www.switch-　　science.com/products/7160?srsltid=AfmBOoraplnJY69S_i3YjpaGKtbcIWbOtgav6bkm8Fa3Qo_qp4UJEWDA、　kumabelog　SWITCH SCIENCE
+- 使用した方法 (インタビュー、記事、Web など): LINEで母にアイデアシートを説明し、意見をもらう。Xで主婦たちが悩んでいる課題について調べた。https://kumabelog.com/m5stack-aicamera-series/　　https://www.switch-　　science.com/products/7160?srsltid=AfmBOoraplnJY69S_i3YjpaGKtbcIWbOtgav6bkm8Fa3Qo_qp4UJEWDA　　kumabelog　SWITCH SCIENCE
 - 調査結果の概要:母に聞くと賞味期限や消費期限を管理できる。また地域のスーパーのチラシを見て一番安いところをピックアップする。冷蔵庫の表面にカメラをつけて、子供のことを観察できるようにしたいなど。Xで調べてみると主婦は買い物に　出かけた時に『あ、何を買うか忘れた』や『あれ買えばよかった』と思うことが多いということがわかった。使えそうなカメラとして、M5Stack UnitV2がある。AI認識機能があり、顔認識、物体追跡、色追跡、形状認識、バーコ　　ド認識、その他一般的な機能などが可能。耐熱は0°C〜40°Cということがわかった。
 
 ## 3. 問題の定義
